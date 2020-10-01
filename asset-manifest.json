@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/challengeego/static/css/main.11691dd3.chunk.css",
+    "main.js": "/challengeego/static/js/main.675f4414.chunk.js",
+    "main.js.map": "/challengeego/static/js/main.675f4414.chunk.js.map",
+    "runtime-main.js": "/challengeego/static/js/runtime-main.7d715069.js",
+    "runtime-main.js.map": "/challengeego/static/js/runtime-main.7d715069.js.map",
+    "static/css/2.250a6555.chunk.css": "/challengeego/static/css/2.250a6555.chunk.css",
+    "static/js/2.f5ecc7a0.chunk.js": "/challengeego/static/js/2.f5ecc7a0.chunk.js",
+    "static/js/2.f5ecc7a0.chunk.js.map": "/challengeego/static/js/2.f5ecc7a0.chunk.js.map",
+    "index.html": "/challengeego/index.html",
+    "precache-manifest.217fa145098248b1522d5d015ccea707.js": "/challengeego/precache-manifest.217fa145098248b1522d5d015ccea707.js",
+    "service-worker.js": "/challengeego/service-worker.js",
+    "static/css/2.250a6555.chunk.css.map": "/challengeego/static/css/2.250a6555.chunk.css.map",
+    "static/css/main.11691dd3.chunk.css.map": "/challengeego/static/css/main.11691dd3.chunk.css.map",
+    "static/js/2.f5ecc7a0.chunk.js.LICENSE.txt": "/challengeego/static/js/2.f5ecc7a0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/challengeego/static/media/logo.5d5d9eef.svg",
+    "static/media/slick-theme.css": "/challengeego/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d715069.js",
+    "static/css/2.250a6555.chunk.css",
+    "static/js/2.f5ecc7a0.chunk.js",
+    "static/css/main.11691dd3.chunk.css",
+    "static/js/main.675f4414.chunk.js"
+  ]
+}
