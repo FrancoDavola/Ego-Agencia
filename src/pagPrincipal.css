@@ -1,0 +1,367 @@
+body {
+    width: 93.75%;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+    
+    
+}
+
+.navBar{
+   
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #191919;
+  height: 45px;
+}
+
+
+
+.navBar a {
+    margin-left: 15px;
+    
+}
+
+
+
+.Gray {
+    width: 25px;
+    height: 18px;
+    object-fit: contain;
+  }
+
+.solapa {
+    margin-top: -45px;
+    
+}
+
+.nav {
+    margin-top: 80px;
+    color: #373737 !important;
+    margin-bottom: 38px;
+    padding-bottom: 18px;
+    padding-left: 2px;
+}
+
+.jo {
+    margin-top: 80px;
+    margin-bottom: 38px;
+    padding-right: 2px;
+}
+
+.Men {
+    margin-right: 15px;
+    margin-top: 26px;
+    font-size: 17px;
+    color: #191919;
+    cursor: pointer;
+
+}
+
+.logo {
+    width: 38px;
+    height: 40px;
+    object-fit: contain;
+    margin-top: 16px;
+    margin-bottom: 14px;
+    margin-left: 35px;
+  }
+
+.Descubr-todos-los-m {
+    /* width: 712px;
+    height: 57px; */
+    margin-top: 107px;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: -1px;
+    color: #373737;
+  }
+
+  .centrado{
+      display: flex;
+      justify-content: center;
+  }
+
+  .card-body h2 {
+    font-weight: 600;
+    font-size: 28px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.07;
+    letter-spacing: -0.65px;
+    text-align: center;
+    color: #000000;
+  }
+
+  .card {
+      border : none;
+      margin-bottom: 75px;
+  }
+
+  a{
+    color: black;
+  }
+
+  .filtrosNav {
+      margin-left: 29px;
+      border-radius: 18px;
+      cursor: pointer;
+      
+      
+     
+  }
+
+  .todos {
+   
+    width: 60px;
+    text-align: center;
+  
+    
+}
+
+
+
+
+
+  
+.autos {
+    width: 56px;
+    text-align: center;
+  
+
+}
+
+.pick{
+    width: 179px;
+    text-align: center;
+    
+}
+
+.suv{
+    width: 144px;
+    text-align: center;
+
+}
+
+#filtrarPor{
+    font-weight: 600;
+}
+
+  .btn {
+      padding: 0;
+      vertical-align: 0%;
+      font-weight: 600;
+      color: #373737;
+ 
+  }
+
+  .btn-secondary{
+      background-color: white;
+      border-color: white;
+  }
+
+  .btn-secondary:hover {
+    color: #373737; 
+    background-color: white; 
+     border-color:white; 
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+    background-color: white;
+    border-color:white; 
+    color: #373737;
+}
+
+.linea {
+    border-bottom: 1px solid #bbb;
+
+}
+.dropEscondido {
+    display: none;
+}
+
+.MenuMobile {
+    display: none
+}
+
+ .btn-dark {
+    background-color: white;
+    border: none;
+    border-radius: 0;
+}
+
+.btn-dark:not(:disabled):not(.disabled).active, .btn-dark:not(:disabled):not(.disabled):active, .show>.btn-dark.dropdown-toggle { 
+    background-color: white;
+    color: #eb0a1e;
+    height: 45px;
+    border: none;
+    border-bottom: 2px solid  #eb0a1e;
+    border-radius: 0;
+
+}
+.btn-dark:hover {
+    background-color: white;
+    color: #eb0a1e;
+    height: 45px;
+    border: none;
+    border-bottom: 2px solid  #eb0a1e;
+    border-radius: 0;
+    
+
+}
+
+.rowHome{
+    margin-bottom: 60px;
+}
+
+.links {
+    text-decoration: none !important;
+    color: #191919 !important;
+}
+
+.modelo {
+    width: 100px;
+}
+
+.btn:focus {outline: none !important;
+     box-shadow: none !important;
+  
+}
+
+.dropdown-menu {
+    font-family: Montserrat;
+    transform: translate3d(283px, 28px, 0px) !important;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    box-shadow: 2px 8px 20px 0 rgba(0, 0, 0, 0.15);
+    width: 170px;
+    padding: 0;
+  }
+
+  .dropdown-item{
+    padding: 10px 0.5rem;
+    border-bottom: 1px solid #d8d8d8;
+    color: #191919 !important;
+    cursor: pointer;
+  }
+
+  
+
+  .dropdown-item:hover{
+      background-color:rgba(209, 214, 214, 0.2) ;
+    
+  }
+
+   .sinBorde{
+    padding: 10px 0.5rem;
+    border: none !important;
+    
+  }
+
+  .header {
+      padding: 0;
+  }
+
+  .header2{
+    padding: 0 12px !important
+  }
+
+.number {
+    margin-left: 4px;
+
+  }
+
+
+@media (max-width: 480px){
+
+    .dropEscondido {
+        display: inline-block;
+        margin-top: 80px;
+        margin-bottom: 38px;
+        
+
+    }
+
+    .Men {
+        display: none
+    }
+
+    .MenuMobile {
+        display: inline-block;
+        font-size: 28px;
+        margin: 13px 18px 16px 0;
+    }
+
+    .nav {
+        display: none
+    }
+
+    .Descubr-todos-los-m {
+        font-size: 35px;
+    }
+
+    .modelosMobile {
+        padding-right: 0px !important;
+        background-color: white !important;
+        margin-left: 0px !important;
+    }
+
+    .logo {
+        margin: 16px 0 14px 15px;
+    }
+   .dropdown{
+       margin-left: -10px;
+   }
+
+   .uno{
+    transform: translate3d(-4px, 24px, 0px) !important;
+   }
+
+   .dos{
+    transform: translate3d(26px, 24px, 0px) !important;
+   }
+
+   .show{
+       left: 1px !important;
+   }
+
+   .dropdown-item{
+       font-size: 10px;
+   }
+
+
+}
+
+@media  (max-width: 378px) and (min-width: 321px)   {
+
+    .uno{
+        transform: translate3d(-4px, 24px, 0px) !important;
+       }
+    
+       .dos{
+        transform: translate3d(2px, 24px, 0px) !important;
+       }
+
+
+}
+
+
+@media (max-width: 320px){
+
+    .uno{
+        transform: translate3d(-4px, 24px, 0px) !important;
+       }
+    
+       .dos{
+        transform: translate3d(-26px, 24px, 0px) !important;
+       }
+}

@@ -1,0 +1,146 @@
+.menu {
+    font-family: Montserrat;
+  }
+  
+  
+  
+  .menu-item a {
+    display: block;
+    text-align: end;
+    padding: 1px 53px 1px 0px;
+    color: inherit;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .menu-item a:hover {
+    color: inherit;
+    text-decoration: none;
+    background-color: #eee;
+  }
+  
+  .menu-item a:focus {
+    text-decoration: none;
+  }
+  
+  .menu-item a:visited {
+    color: inherit;
+  }
+  
+  .active-menu-item {
+    background-color: #e8e8f9;
+  }
+  
+  .hint {
+    padding: .5rem 15px;
+  }
+
+ .cheeseburger-menu .cheeseburger-menu-outer {
+    left: inherit !important;
+    right: 0px !important;
+    transform: translate3d(100%, 0px, 0px) !important ;
+    width: 390px !important;
+}
+
+.open .cheeseburger-menu-outer {
+    left: inherit !important;
+    right: 0px !important;
+    transform: translate3d(0%, 0px, 0px) !important ;
+}
+
+
+.movete {
+  text-align: end;
+}
+
+.botonCerrar {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 23px;
+  font-size: 14px;
+  margin-top: 18px;
+  margin-bottom: 4px;
+  cursor: pointer;
+}
+
+.cruz {
+  margin-left: 21px;
+}
+
+.fas .fa-times {
+  font-size: 20px;
+}
+
+.separador{
+  border-bottom: 2px solid #efeeef;
+  margin: 26px 0px
+}
+
+.separador3{
+  border-bottom: 2px solid #efeeef;
+  margin-top: 26px;
+  padding-bottom: 26px;
+    background-color: #efeeef;
+}
+
+.separador4 {
+  background-color: #efeeef;
+  padding-bottom: 26px;
+}
+
+.menu-itemOscuro{
+  display: block;
+    text-align: end;
+    padding: 1px 53px 1px 0px;
+    color: inherit;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #efeeef;
+}
+
+.menu-itemOscuro:hover  {
+  color: inherit;
+  text-decoration: none;
+  background-color: white;
+}
+
+.menu-itemOscuro a  {
+  color: inherit;
+  text-decoration: none;
+  
+}
+
+
+
+@media (max-width: 480px){
+
+.cheeseburger-menu-outer {
+  position: fixed;
+    left: 0px;
+    right: inherit;
+    top: 72px !important;
+    bottom: 0px;
+    z-index: 1002;
+    width: 300px;
+    max-width: 100% !important;
+   
+    transform-origin: left center;
+    background-color: white
+}
+
+.cheeseburger-menu .cheeseburger-menu-outer {
+  
+  width: 425px !important;
+
+}
+
+.cheeseburger-menu-shadow{
+box-shadow: none !important;
+}
+
+.cheeseburger-menu-overlay{
+  background: none !important
+}
+
+
+}
