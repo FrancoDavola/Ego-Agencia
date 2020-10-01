@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/challengeego/static/css/main.11691dd3.chunk.css",
-    "main.js": "/challengeego/static/js/main.6d7a5282.chunk.js",
-    "main.js.map": "/challengeego/static/js/main.6d7a5282.chunk.js.map",
+    "main.js": "/challengeego/static/js/main.e9774197.chunk.js",
+    "main.js.map": "/challengeego/static/js/main.e9774197.chunk.js.map",
     "runtime-main.js": "/challengeego/static/js/runtime-main.7d715069.js",
     "runtime-main.js.map": "/challengeego/static/js/runtime-main.7d715069.js.map",
     "static/css/2.250a6555.chunk.css": "/challengeego/static/css/2.250a6555.chunk.css",
     "static/js/2.f5ecc7a0.chunk.js": "/challengeego/static/js/2.f5ecc7a0.chunk.js",
     "static/js/2.f5ecc7a0.chunk.js.map": "/challengeego/static/js/2.f5ecc7a0.chunk.js.map",
     "index.html": "/challengeego/index.html",
-    "precache-manifest.be1dcb953660c6587bc8056c3baf3851.js": "/challengeego/precache-manifest.be1dcb953660c6587bc8056c3baf3851.js",
+    "precache-manifest.e32e26098decaa28efaf2f5666beef81.js": "/challengeego/precache-manifest.e32e26098decaa28efaf2f5666beef81.js",
     "service-worker.js": "/challengeego/service-worker.js",
     "static/css/2.250a6555.chunk.css.map": "/challengeego/static/css/2.250a6555.chunk.css.map",
     "static/css/main.11691dd3.chunk.css.map": "/challengeego/static/css/main.11691dd3.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.250a6555.chunk.css",
     "static/js/2.f5ecc7a0.chunk.js",
     "static/css/main.11691dd3.chunk.css",
-    "static/js/main.6d7a5282.chunk.js"
+    "static/js/main.e9774197.chunk.js"
   ]
 }

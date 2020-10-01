@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfce87c273529f9711e1e08340e103ed",
+    "revision": "30d7ce631aa1466bb2b4df22fb4008de",
     "url": "/challengeego/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/challengeego/static/css/2.250a6555.chunk.css"
   },
   {
-    "revision": "f000e0f6a82703de30c5",
+    "revision": "f552509db99377a07f8a",
     "url": "/challengeego/static/css/main.11691dd3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/challengeego/static/js/2.f5ecc7a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f000e0f6a82703de30c5",
-    "url": "/challengeego/static/js/main.6d7a5282.chunk.js"
+    "revision": "f552509db99377a07f8a",
+    "url": "/challengeego/static/js/main.e9774197.chunk.js"
   },
   {
     "revision": "2235c86d257105a84079",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/challengeego/precache-manifest.be1dcb953660c6587bc8056c3baf3851.js"
+  "/challengeego/precache-manifest.e32e26098decaa28efaf2f5666beef81.js"
 );
 
 self.addEventListener('message', (event) => {
