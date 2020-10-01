@@ -8,7 +8,7 @@ class logoYmenu extends Component{
            
            
            <div className="d-flex justify-content-between linea">
-               <div className="logo"><NavLink to="/"><img src={logo} /></NavLink></div>
+               <div className="logo"><NavLink to="/challengeego"><img src={logo} /></NavLink></div>
                  <MenuBurger />
            </div>
         )

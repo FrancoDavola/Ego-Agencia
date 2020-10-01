@@ -22,7 +22,7 @@ class MenuContent extends Component {
             {/* Primera seccion del menu */}
 
         {this.items.map(i => <div className="menu-item" key={i}>
-           <NavLink to="/" onClick={this.props.closeCallback}>{i}</NavLink>
+           <NavLink to="/challengeego" onClick={this.props.closeCallback}>{i}</NavLink>
          </div>)}
 
          <div className="separador"></div>

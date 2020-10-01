@@ -24,7 +24,7 @@ function App() {
   
     <Switch>
 
-       <Route path="/challengeego/" exact>
+       <Route path="/challengeego" exact>
           <Titulo />
        </Route>   
 
